@@ -1,0 +1,6 @@
+{
+  "name": "WINTER ARC",
+  "description": "Mobile-first personal RPG progression system leveling up real-life routines, fitness, and discipline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
